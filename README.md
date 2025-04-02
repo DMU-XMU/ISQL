@@ -1,2 +1,2 @@
 # ISQL
-This is a pytorch implementation of MMCS
+This is a pytorch implementation of ISQL.
